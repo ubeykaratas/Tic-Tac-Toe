@@ -1,0 +1,66 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ubey\\Desktop\\Projects\\TTT_Game_Ubeydullah_Karatas\\TTT_Game_Ubeydullah_Karatas.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ubey\\Desktop\\Projects\\TTT_Game_Ubeydullah_Karatas\\TTT_Game_Ubeydullah_Karatas.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ubey\\Desktop\\Projects\\TTT_Game_Ubeydullah_Karatas\\TTT_Game_Ubeydullah_Karatas.csproj",
+        "projectName": "TTT_Game_Ubeydullah_Karatas",
+        "projectPath": "C:\\Users\\Ubey\\Desktop\\Projects\\TTT_Game_Ubeydullah_Karatas\\TTT_Game_Ubeydullah_Karatas.csproj",
+        "packagesPath": "C:\\Users\\Ubey\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ubey\\Desktop\\Projects\\TTT_Game_Ubeydullah_Karatas\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ubey\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0-windows7.0": {
+            "targetAlias": "net6.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "TTT_Game_Ubeydullah_Karatas/1.0.0": {
+        "runtime": {
+          "TTT_Game_Ubeydullah_Karatas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TTT_Game_Ubeydullah_Karatas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

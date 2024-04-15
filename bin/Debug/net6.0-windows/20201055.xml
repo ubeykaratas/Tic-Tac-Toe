@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserDatas>
+  <UserData>
+    <ID>152120201055</ID>
+    <UserType>Admin</UserType>
+    <UserName>Ubey</UserName>
+    <Password>123456</Password>
+    <NameSurname>Ubeydullah Karataş</NameSurname>
+    <Mail>myMail@gmail.com</Mail>
+  </UserData>
+  <UserData>
+    <ID>01</ID>
+    <UserType>ForDeletion</UserType>
+    <UserName>DeleteMe</UserName>
+    <Password>Del</Password>
+    <NameSurname>Deletion</NameSurname>
+    <Mail>Deletion@gmail.com</Mail>
+  </UserData>
+  <UserData>
+    <ID>02</ID>
+    <UserType>User</UserType>
+    <UserName>user</UserName>
+    <Password>user</Password>
+    <NameSurname>User USER</NameSurname>
+    <Mail>user@gmail.com</Mail>
+  </UserData>
+  <UserData>
+    <ID>03</ID>
+    <UserType>Admin</UserType>
+    <UserName>admin</UserName>
+    <Password>admin</Password>
+    <NameSurname>Admin ADMIN</NameSurname>
+    <Mail>admin@gmail.com</Mail>
+  </UserData>
+</UserDatas>
